@@ -1,5 +1,3 @@
-import 'dart:js_interop_unsafe';
-
 import 'package:shopping_list/data/categories.dart';
 import 'package:flutter/material.dart';
 import 'package:shopping_list/models/grocery_item.dart';
